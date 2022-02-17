@@ -1,2 +1,1 @@
-import './js/character';
-import './js/team';
+import './js/app';
